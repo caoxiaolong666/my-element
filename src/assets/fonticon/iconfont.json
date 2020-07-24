@@ -1,0 +1,65 @@
+{
+  "id": "1960771",
+  "name": "新图库",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16092342",
+      "name": "icons8-password 1",
+      "font_class": "icons8-password1",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "16092367",
+      "name": "icons8-user 1",
+      "font_class": "icons8-user1",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "1146281",
+      "name": "iconfont_up",
+      "font_class": "icon11",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "6253885",
+      "name": "iconfont icon-nengha",
+      "font_class": "iconfonticon-nengha",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "6253906",
+      "name": "iconfont icon-yonghu",
+      "font_class": "iconfonticon-yonghu",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "16042901",
+      "name": "客户优惠@3x",
+      "font_class": "kehuyouhui3x",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "16042902",
+      "name": "客户退货单@3x",
+      "font_class": "kehutuihuodan3x",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "16042903",
+      "name": "促销品订单@3x",
+      "font_class": "cuxiaopindingdan3x",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}
