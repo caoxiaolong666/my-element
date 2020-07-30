@@ -40,7 +40,7 @@
         </el-pagination>
     </el-card>
     <!-- 添加分类弹框 -->
-      <el-dialog
+    <el-dialog
       title="添加分类"
       :visible.sync="showDialogGoods"
       width="50%"
